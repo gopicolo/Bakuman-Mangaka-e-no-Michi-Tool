@@ -1,6 +1,6 @@
-# Bakuman. - Mangaka e no Michi (PSP) Script Tools
+# Bakuman. - Mangaka e no Michi (DS) Script Tools
 
-This repository contains two Python scripts for extracting and reinserting dialogue text from the game **Bakuman. - Mangaka e no Michi** for PlayStation Portable.
+This repository contains two Python scripts created by gopicolo for extracting and reinserting dialogue text from the game **Bakuman. - Mangaka e no Michi** for Nitendo DS.
 
 ## 🛠 Scripts
 
@@ -58,5 +58,3 @@ All game text is encoded in **Shift-JIS**. The scripts handle decoding and encod
 5. Use the files from `modified/Story` in your patched game
 
 ---
-
-© Tools by [gopicolo](https://github.com/gopicolo) – Made for fun and fan translation
