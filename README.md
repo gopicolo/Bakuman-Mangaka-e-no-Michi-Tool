@@ -49,12 +49,4 @@ All game text is encoded in **Shift-JIS**. The scripts handle decoding and encod
 - Python 3.x
 - No external dependencies (pure Python)
 
-## 🔄 Usage
-
-1. Place original `.scr` files in `input/Story`
-2. Run `dump.py` to extract the text
-3. Edit the `texto_traduzido` fields in the `.json` files in `output/Story`
-4. Run `repack.py` to reinsert the translated strings
-5. Use the files from `modified/Story` in your patched game
-
 ---
