@@ -1,0 +1,1 @@
+# Bakuman.---Mangaka-e-no-Michi-Tool
