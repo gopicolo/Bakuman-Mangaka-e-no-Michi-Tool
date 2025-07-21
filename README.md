@@ -1,6 +1,6 @@
 # `.scr` Script Extractor & Repacker with Pointer Fixes
 
-This repository contains two Python tools for **extracting** and **repacking** `.scr` script files from games that use Shift-JIS encoding and a specific internal pointer system.
+This repository contains two Python tools created by Gopicolo to **extract** and **repackage** `.scr` script files from bakuman mangaka e no Michi that use Shift-JIS encoding and a specific internal pointer system.
 
 ---
 
@@ -80,18 +80,6 @@ These tools were developed to streamline the translation and modification proces
 - The pointer adjustment value (`0x2D`) is based on reverse-engineering the target game's format.
 - The scripts handle non-printable and special bytes by encoding them as `{HEX:XX}` placeholders during extraction and decoding them back during repacking.
 - Make sure the folder structure exists before running the scripts.
-
----
-
-## License
-
-Feel free to use and modify these tools for your projects. Attribution is appreciated.
-
----
-
-## Author
-
-[gopicolo](https://github.com/gopicolo)
 
 ---
 
